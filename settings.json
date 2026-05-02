@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Alternatives.aternos.me:19948",
+    "ip": "Alternatives.aternos.me",
     "port": 19948,
     "version": "",
     "try-creative": false
